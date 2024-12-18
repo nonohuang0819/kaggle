@@ -5,4 +5,4 @@
 # task4: [link](https://www.kaggle.com/t/e28d87f5624441e19232a2a83b6e2e3b)
 
 local submit to kaggle
-kaggle competitions submit -c [COMPETITION NAME] -f [FILE PATH]
+kaggle competitions submit -c [COMPETITION] -f [FILE] -m [MESSAGE]

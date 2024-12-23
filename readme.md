@@ -21,3 +21,7 @@ pandas, numpy, scikit-learn, seaborn, matplotlib, ipykernel, category_encoders
 
 Command:    
 `kaggle competitions submit -c [COMPETITION NAME] -f [FILE PATH]`
+
+
+
+task3: class2 都特別低
